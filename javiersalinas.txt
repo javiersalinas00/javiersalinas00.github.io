@@ -1,0 +1,6 @@
+<span id=“a">root@javiersalinas.cl</span>:<span id="b">~</span><span id="c">$</span> cat javiersalinas.txt<br/><br/>
+<VLINK=“#00FF00”>Hola, soy Javier Salinas.<!— qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj --><p>Desarollador web con más de 10 años de experiencia.</p>
+<p>Me gusta aprender sobre nuevas tecnologías, ver películas, series, jugar videojuegos y viajar.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
+<p>Soy inquieto por aprender más y me gusta afrontar nuevos retos. No le tengo miedo a lo nuevo.</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
+Si te quieres contactar conmigo para algun proyecto o solo para decir hola,<!-- slightdelayhere--> puedes escribirme a mi <a href="mailto:contacto@javiersalinas.cl">mail</a>.<!-- longlongcomment --> O puedes contactarme en mi <a href=“http://www.linkedin.com/javiersalinas00">Linkedin</a>
+<p>Espero saber pronto de ti!</p>
